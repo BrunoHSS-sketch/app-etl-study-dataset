@@ -1,0 +1,6 @@
+pedido_id,cliente_id,data_pedido,status,total
+101,1,2023-06-01,Entregue,299.9
+102,2,2023-06-03,Cancelado,150.0
+103,1,2023-06-10,Entregue,89.9
+104,3,2023-06-12,Processando,450.0
+105,4,2023-06-15,Entregue,230.5

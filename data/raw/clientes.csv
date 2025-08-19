@@ -1,0 +1,5 @@
+cliente_id,nome,email,telefone,estado,data_cadastro
+1,João Silva,joao@email.com,11999999999,SP,2023-01-15
+2,Ana Souza,ana@email.com,21988888888,RJ,2023-03-20
+3,Carlos Lima,carlos@email.com,31977777777,MG,2023-02-10
+4,Mariana Alves,mariana@email.com,41966666666,PR,2023-05-05
